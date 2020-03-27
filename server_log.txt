@@ -1,0 +1,321 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:31:09] 
+[08:31:09] Server Plugins
+[08:31:09] --------------
+[08:31:09]  Loading plugin: mysql
+[08:31:09]  >> plugin.mysql: R41-4 successfully loaded.
+[08:31:09]   Loaded.
+[08:31:09]  Loading plugin: streamer
+[08:31:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:31:09]   Loaded.
+[08:31:09]  Loading plugin: sscanf
+[08:31:09] 
+
+[08:31:09]  ===============================
+
+[08:31:09]       sscanf plugin loaded.     
+
+[08:31:09]          Version:  2.8.3        
+
+[08:31:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:31:09]  ===============================
+
+[08:31:09]   Loaded.
+[08:31:09]  Loading plugin: log-plugin
+[08:31:09]  >> plugin.log: v0.4 successfully loaded.
+[08:31:09]   Loaded.
+[08:31:09]  Loaded 4 plugins.
+
+[08:31:09] 
+[08:31:09] Filterscripts
+[08:31:09] ---------------
+[08:31:09]   Loading filterscript 'sweeper.amx'...
+[08:31:09]   Loaded 1 filterscripts.
+
+[08:31:09] MySQL connection failed. Server is shutting down.
+[08:31:09] 
+_____________________________________
+[08:31:09]  
+[08:31:09]  Starting Coriom RPG v0.1
+[08:31:09] _____________________________________
+
+[08:31:09] Number of vehicle models: 0
+[08:31:09] --- Server Shutting Down.
+[08:31:09] plugin.mysql: Unloading plugin...
+[08:31:09] plugin.mysql: Plugin unloaded.
+[08:31:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[08:31:09] 
+
+[08:31:09]  ===============================
+
+[08:31:09]      sscanf plugin unloaded.    
+
+[08:31:09]  ===============================
+
+[08:31:09] plugin.log: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:32:21] 
+[08:32:21] Server Plugins
+[08:32:21] --------------
+[08:32:21]  Loading plugin: mysql
+[08:32:21]  >> plugin.mysql: R41-4 successfully loaded.
+[08:32:21]   Loaded.
+[08:32:21]  Loading plugin: streamer
+[08:32:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:32:21]   Loaded.
+[08:32:21]  Loading plugin: sscanf
+[08:32:21] 
+
+[08:32:21]  ===============================
+
+[08:32:21]       sscanf plugin loaded.     
+
+[08:32:21]          Version:  2.8.3        
+
+[08:32:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:32:21]  ===============================
+
+[08:32:21]   Loaded.
+[08:32:21]  Loading plugin: log-plugin
+[08:32:21]  >> plugin.log: v0.4 successfully loaded.
+[08:32:21]   Loaded.
+[08:32:21]  Loaded 4 plugins.
+
+[08:32:21] 
+[08:32:21] Filterscripts
+[08:32:21] ---------------
+[08:32:21]   Loading filterscript 'sweeper.amx'...
+[08:32:21]   Loaded 1 filterscripts.
+
+[08:32:22] MySQL connection is successful.
+[08:32:22] 
+_____________________________________
+[08:32:22]  
+[08:32:22]  Starting Coriom RPG v0.1
+[08:32:22] _____________________________________
+
+[08:32:22] Number of vehicle models: 34
+[08:32:22] Loaded 0 player vehicles
+[08:33:04] [connection] 127.0.0.1:53286 requests connection cookie.
+[08:33:05] [connection] incoming connection: 127.0.0.1:53286 id: 0
+[08:33:05] [join] Denis has joined the server (0:127.0.0.1)
+[08:33:10] 1 -- 2019-04-28 07:33:55 -- 0
+Console input: gmx
+[08:42:36] MySQL connection is successful.
+[08:42:36] 
+_____________________________________
+[08:42:36]  
+[08:42:36]  Starting Coriom RPG v0.1
+[08:42:36] _____________________________________
+
+[08:42:36] Number of vehicle models: 34
+[08:42:36] Loaded 0 player vehicles
+[08:42:45] 1 -- 2019-04-28 07:33:55 -- 0
+[08:42:49] %s -- %s
+Console input: gmx
+[08:43:54] MySQL connection is successful.
+[08:43:54] 
+_____________________________________
+[08:43:54]  
+[08:43:54]  Starting Coriom RPG v0.1
+[08:43:54] _____________________________________
+
+[08:43:54] Number of vehicle models: 34
+[08:43:54] Loaded 0 player vehicles
+[08:44:07] 1 -- 2019-04-28 07:33:55 -- 0
+[08:44:10]  -- 
+Console input: gmx
+[08:45:06] MySQL connection is successful.
+[08:45:06] 
+_____________________________________
+[08:45:06]  
+[08:45:06]  Starting Coriom RPG v0.1
+[08:45:06] _____________________________________
+
+[08:45:06] Number of vehicle models: 34
+[08:45:06] Loaded 0 player vehicles
+[08:45:07] 1 -- 2019-04-28 07:33:55 -- 0
+[08:45:11] 1 -- 0
+[08:45:20] 3 -- 0
+Console input: gmx
+[08:47:12] MySQL connection is successful.
+[08:47:12] 
+_____________________________________
+[08:47:12]  
+[08:47:12]  Starting Coriom RPG v0.1
+[08:47:12] _____________________________________
+
+[08:47:12] Number of vehicle models: 34
+[08:47:12] Loaded 0 player vehicles
+[08:47:14] 1 -- 2019-04-28 07:33:55 -- 0
+Console input: gmx
+[08:53:53] MySQL connection is successful.
+[08:53:53] 
+_____________________________________
+[08:53:53]  
+[08:53:53]  Starting Coriom RPG v0.1
+[08:53:53] _____________________________________
+
+[08:53:53] Number of vehicle models: 0
+[08:53:53] [part] Denis has left the server (0:2)
+[08:53:53] Loaded 0 player vehicles
+Console input: gmx
+[08:54:12] MySQL connection is successful.
+[08:54:12] 
+_____________________________________
+[08:54:12]  
+[08:54:12]  Starting Coriom RPG v0.1
+[08:54:12] _____________________________________
+
+[08:54:12] Number of vehicle models: 0
+[08:54:12] Loaded 0 player vehicles
+[08:54:51] [connection] 127.0.0.1:56492 requests connection cookie.
+[08:54:52] [connection] incoming connection: 127.0.0.1:56492 id: 0
+[08:54:52] [join] Denis has joined the server (0:127.0.0.1)
+[08:54:52] [part] Denis has left the server (0:2)
+Console input: gmx
+[08:57:49] MySQL connection is successful.
+[08:57:49] Faction LeaderId: -1
+[08:57:49] Faction LeaderId: 3
+[08:57:49] Faction LeaderId: -1
+[08:57:49] Faction LeaderId: -1
+[08:57:49] Loaded 4 factions
+[08:57:49] 
+_____________________________________
+[08:57:49]  
+[08:57:49]  Starting Coriom RPG v0.1
+[08:57:49] _____________________________________
+
+[08:57:49] Number of vehicle models: 34
+[08:57:49] Loaded 0 player vehicles
+Console input: gmx
+[08:58:42] MySQL connection is successful.
+[08:58:42] 
+_____________________________________
+[08:58:42]  
+[08:58:42]  Starting Coriom RPG v0.1
+[08:58:42] _____________________________________
+
+[08:58:42] Number of vehicle models: 34
+[08:58:42] Loaded 0 player vehicles
+[08:58:42] Loaded 4 factions
+[09:00:26] [connection] 127.0.0.1:63083 requests connection cookie.
+[09:00:27] [connection] incoming connection: 127.0.0.1:63083 id: 0
+[09:00:27] [join] Denis has joined the server (0:127.0.0.1)
+[09:00:30] 1 -- 2019-04-28 07:33:55 -- 0
+[09:00:35] 1
+[09:00:52] 1 -- -1
+[09:01:01] 3 -- -1
+[09:01:32] 2 -- 3
+[09:01:36] 2 -- 3
+[09:01:39] 1 -- 0
+Console input: gmx
+[09:08:35] MySQL connection is successful.
+[09:08:35] 
+_____________________________________
+[09:08:35]  
+[09:08:35]  Starting Coriom RPG v0.1
+[09:08:35] _____________________________________
+
+[09:08:35] Number of vehicle models: 34
+[09:08:35] Loaded 0 player vehicles
+[09:08:35] Loaded 4 factions
+[09:08:43] 1 -- 2019-04-28 07:33:55 -- 0
+[09:08:53] 1 -- -1
+[09:08:58] 2 -- 3
+[09:09:02] 3 -- -1
+[09:09:06] 1 -- -1
+[09:09:08] 3 -- -1
+[09:09:11] 2 -- 3
+Console input: gmx
+[09:10:45] MySQL connection is successful.
+[09:10:45] 
+_____________________________________
+[09:10:45]  
+[09:10:45]  Starting Coriom RPG v0.1
+[09:10:45] _____________________________________
+
+[09:10:45] Number of vehicle models: 34
+[09:10:45] Loaded 0 player vehicles
+[09:10:46] Loaded 4 factions
+[09:10:48] 1 -- 2019-04-28 07:33:55 -- 0
+[09:10:51] 1
+[09:10:58] 1 -- -1
+[09:11:01] 1
+Console input: gmx
+[09:19:26] MySQL connection is successful.
+[09:19:26] 
+_____________________________________
+[09:19:26]  
+[09:19:26]  Starting Coriom RPG v0.1
+[09:19:26] _____________________________________
+
+[09:19:26] Number of vehicle models: 34
+[09:19:26] Loaded 0 player vehicles
+[09:19:26] Loaded 4 factions
+Console input: gmx
+[09:19:56] MySQL connection is successful.
+[09:19:56] 
+_____________________________________
+[09:19:56]  
+[09:19:56]  Starting Coriom RPG v0.1
+[09:19:56] _____________________________________
+
+[09:19:56] Number of vehicle models: 34
+[09:19:56] Loaded 0 player vehicles
+[09:19:57] Loaded 4 factions
+[09:20:00] 1 -- 2019-04-28 07:33:55 -- 0
+Console input: gmx
+[09:20:35] MySQL connection is successful.
+[09:20:35] 
+_____________________________________
+[09:20:35]  
+[09:20:35]  Starting Coriom RPG v0.1
+[09:20:35] _____________________________________
+
+[09:20:35] Number of vehicle models: 34
+[09:20:35] Loaded 0 player vehicles
+[09:20:35] Loaded 4 factions
+[09:21:02] 1 -- 2019-04-28 07:33:55 -- 0
+[09:21:13] 1
+[09:21:22] 1
+Console input: gmx
+[09:26:37] MySQL connection is successful.
+[09:26:37] 
+_____________________________________
+[09:26:37]  
+[09:26:37]  Starting Coriom RPG v0.1
+[09:26:37] _____________________________________
+
+[09:26:37] Number of vehicle models: 34
+[09:26:37] Loaded 0 player vehicles
+[09:26:37] Loaded 4 factions
+[09:26:42] 1 -- 2019-04-28 07:33:55 -- 0
+[09:31:43] [part] Denis has left the server (0:1)
